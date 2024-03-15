@@ -14,7 +14,7 @@ npm install --save-dev jest @types/jest ts-jest
 ```
 
 <p>adjsut code in package.jason</p>
-before:
+before: <br>
 
 ```
  "scripts": {
