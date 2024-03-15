@@ -28,3 +28,5 @@ after:
     "test": "jest"
   },
 ```
+
+#dont forgot load file jest.config.js in to project
