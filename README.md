@@ -28,5 +28,10 @@ after:
     "test": "jest"
   },
 ```
+<p>Finally run test</p>
+
+```
+npm test
+```
 
 #dont forgot load file jest.config.js in to project
