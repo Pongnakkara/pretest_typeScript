@@ -28,7 +28,7 @@ after:
     "test": "jest"
   },
 ```
-<p>Finally run test</p>
+<p>Finally run test with this command</p>
 
 ```
 npm test
