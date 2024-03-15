@@ -2,18 +2,18 @@
 <p>This repo is made for submit pretest for internship</p>
 
 <h1>follow step for execute</h1>
-<p>Initializing a new npm project</p>
+<p>1.Initializing a new npm project</p>
 
 ```
 npm init -y
 ```
-<p>Install Jest for testing </p>
+<p>2.Install Jest for testing </p>
 
 ```
 npm install --save-dev jest @types/jest ts-jest
 ```
 
-<p>adjsut code in package.jason</p>
+<p>3.adjsut code in package.jason</p>
 before: <br>
 
 ```
